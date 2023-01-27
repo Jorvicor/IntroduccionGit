@@ -17,10 +17,12 @@ INTRODUCCION A GIT
 
 *Sistanxis-basica*
 
-***Lista de pendientes***
+***Lista de pendientes***<br>
 
--[x] Negrita
--[x] Cursiva
+- [X] Negrita
+- [X] Cursiva
+- [X] Imagenes
+- [ ] Hipervinculos
 
 ```hmtl 
 <h2>Hola Markdown</h2> 
